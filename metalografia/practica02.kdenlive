@@ -1,0 +1,1408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt root="/home/isaac" producer="main bin" version="0.9.8" title="Anonymous Submission" LC_NUMERIC="en_US.UTF-8">
+ <profile description="HD 720p 30 fps" sample_aspect_num="1" frame_rate_den="1" width="1280" display_aspect_den="9" frame_rate_num="30" height="720" sample_aspect_den="1" colorspace="709" display_aspect_num="16" progressive="1"/>
+ <producer id="1" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12675067_10205889896232840_543593029_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">193491</property>
+  <property name="kdenlive:file_hash">90c8671f130a0560b0b6a376da3cf241</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="2" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12722392_10205889896472846_1457401340_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1536</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">249558</property>
+  <property name="kdenlive:file_hash">1c73c5c01eb008621be8f897506e3cd6</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="3" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12822868_10205889896432845_1491484946_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">230198</property>
+  <property name="kdenlive:file_hash">9518ba511a75804305cfc6feb2a74ae9</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="4" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12822991_1142768129067939_745777149_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">165750</property>
+  <property name="kdenlive:file_hash">daebf6e383dd9e543074da23fbf74961</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="5" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12837452_1142767902401295_410939013_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">198612</property>
+  <property name="kdenlive:file_hash">ba4c63ffdee74562ebed970877cf3953</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="6" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/12842487_10205889896152838_673603385_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">204615</property>
+  <property name="kdenlive:file_hash">82d34ff40aef36af0e76c3d7b6616ce9</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="7" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/20160307_135441.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1840</property>
+  <property name="meta.media.height">3264</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">1580804</property>
+  <property name="kdenlive:file_hash">9d0aa538b3376f6533d1efd221a2bec1</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="8" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/20160307_135449.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1840</property>
+  <property name="meta.media.height">3264</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">1217380</property>
+  <property name="kdenlive:file_hash">3ce77b02bb86c8ba71591c8a2c2ca4c7</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="9" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/20160307_143759.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1840</property>
+  <property name="meta.media.height">3264</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">1036324</property>
+  <property name="kdenlive:file_hash">9d0c095d471a164e15bbb2e9d81bdf33</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="10" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/20160307_143803.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1840</property>
+  <property name="meta.media.height">3264</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">1206659</property>
+  <property name="kdenlive:file_hash">af35972c6953728e739a3fd5a662bdab</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="11" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/20160307_164108.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">3264</property>
+  <property name="meta.media.height">1840</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">824548</property>
+  <property name="kdenlive:file_hash">bd00f034297db0106333f66a38a9d9e7</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="13" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/1026.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">736</property>
+  <property name="meta.media.height">329</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">471273</property>
+  <property name="kdenlive:file_hash">195fe587e7235f18982cbc29cb7df0d0</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="14" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/1045.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">728</property>
+  <property name="meta.media.height">325</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">391617</property>
+  <property name="kdenlive:file_hash">b6e25c0f6645204999f6ae74bc954c5d</property>
+  <property name="kdenlive:folderid">1</property>
+ </producer>
+ <producer id="15" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle LC_NUMERIC="en_US.UTF-8" duration="150" width="1280" height="720" out="150">
+ &lt;item z-index="4" type="QGraphicsTextItem">
+  &lt;position x="337.5" y="472">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-outline="0.5" font="Noto Sans" font-weight="50" font-color="0,0,0,255" font-pixel-size="56" font-underline="0" font-outline-color="0,0,0,255" font-italic="0">Práctica de metalografía&lt;/content>
+ &lt;/item>
+ &lt;item z-index="3" type="QGraphicsTextItem">
+  &lt;position x="395" y="392">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-outline="0.5" font="Noto Sans" font-weight="50" font-color="0,0,0,255" font-pixel-size="56" font-underline="0" font-outline-color="0,0,0,255" font-italic="0">Equipo Dream Team&lt;/content>
+ &lt;/item>
+ &lt;item z-index="1" type="QGraphicsPixmapItem">
+  &lt;position x="280" y="20">
+   &lt;transform>0.500341,0,0,0,0.500341,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content url="/run/media/isaac/PACE02/metalografia/tecnologico.png"/>
+ &lt;/item>
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="323.571" y="305.571">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-outline="0.5" font="Noto Sans" font-weight="50" font-color="0,0,0,255" font-pixel-size="56" font-underline="0" font-outline-color="0,0,0,255" font-italic="0">Tecnología de Materiales&lt;/content>
+ &lt;/item>
+ &lt;item z-index="-1" type="QGraphicsRectItem">
+  &lt;position x="-12.5" y="-10">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" penwidth="0" rect="0,0,1317.5,757.5" brushcolor="255,255,255,255"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">cd0fd5de3071785a8d541d9ae8a97055</property>
+ </producer>
+ <producer id="16" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="468.571" y="249.143">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Materiales&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="-1">
+  &lt;position x="-32.5" y="-25">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1325,772.5"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">fea80835f4474b4b1d6d87fcb2ffe99e</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="17" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="459.286" y="271.643">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Procedimiento&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="-1">
+  &lt;position x="-7.5" y="-12.5">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1317.5,757.5"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">64112ccf475cc247d446f34bd33bb6a0</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="18" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="504.286" y="279.143">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Resultados&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="-1">
+  &lt;position x="-42.5" y="-27.5">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1345,762.5"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">d8012580689da9f1b9e64f207afe588d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="19" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy)</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="496.901" y="261.892">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Objetivos&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="-1">
+  &lt;position x="-32.5" y="-25">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1325,772.5"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">fea80835f4474b4b1d6d87fcb2ffe99e</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="20" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy)</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="87.4373" y="241.733">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Comprender el proceso de preparación de 
+muestras para metalografía&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="-1">
+  &lt;position x="-32.5" y="-25">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1325,772.5"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">fea80835f4474b4b1d6d87fcb2ffe99e</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="21" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="252.239" y="622.194">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Probetas de Acero 1026 y 1045&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="22" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="171.498" y="623.611">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Cortar muestras y cubrirlas con resina&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="23" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="34.0972" y="625.028">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="56" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Configurar las condiciones de termoformado&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="24" in="0" out="149">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/run/media/isaac/PACE02/metalografia/FZX7BCZHSE9584O.MEDIUM.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">620</property>
+  <property name="meta.media.height">465</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">25320</property>
+  <property name="kdenlive:file_hash">31fd75bb18afb98023d947e0d5c3bfc5</property>
+ </producer>
+ <producer id="25" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="70.8251" y="636.34">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Lijar ambas muestras hasta llegar al calibre 1200&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="26" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="392.371" y="637.757">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Pulir y enjuagar&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="27" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="273.385" y="636.34">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Sumergir en ácido y enjuagar&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="28" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy) (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="412.202" y="637.757">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Análisis en microscopio&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="29" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy) (copy) (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="412.202" y="637.757">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Acero 1045
+&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <producer id="30" in="0" out="149" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" width="1280" height="720" out="150" LC_NUMERIC="en_US.UTF-8">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="501.442" y="634.924">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" font-pixel-size="48" font-weight="50" font-outline-color="0,0,0,255" font="Noto Sans" font-outline="0.5" font-underline="0" font-color="0,0,0,255">Acero 1026
+&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsRectItem" z-index="1">
+  &lt;position x="-10.4478" y="627.654">
+   &lt;transform zoom="100">1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content pencolor="0,0,0,255" brushcolor="255,255,255,255" penwidth="0" rect="0,0,1307.46,86.5672"/>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1280,720"/>
+ &lt;endviewport rect="0,0,1280,720"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7aa8fc1ff3ffc6fa9098385e2273378e</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+ </producer>
+ <playlist id="main bin" kdenlive:customeffects="&lt;customeffects/>&#xa;">
+  <property name="kdenlive:customeffects">&lt;customeffects/>
+</property>
+  <property name="kdenlive:docproperties.documentid">1457662662298</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">15.12.2</property>
+  <property name="kdenlive:docproperties.position">1529</property>
+  <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
+  <property name="kdenlive:docproperties.projectfolder">kdenlive</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-s 640x480 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.91</property>
+  <property name="kdenlive:docproperties.verticalzoom">0</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups">&lt;groups/>
+</property>
+  <property name="kdenlive:folder.-1.1">Img</property>
+  <property name="kdenlive:folder.-1.2">Scenes</property>
+  <property name="kdenlive:folder.-1.3">Sub</property>
+  <property name="kdenlive:docproperties.renderaudiobitrate">160</property>
+  <property name="kdenlive:docproperties.renderbitrate">20</property>
+  <property name="kdenlive:docproperties.rendercategory">MP4</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264/AAC fast</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/run/media/isaac/PACE02/metalografia/dreamTeam_metalografia.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="xml_retain">1</property>
+  <entry in="0" producer="1" out="149"/>
+  <entry in="0" producer="2" out="149"/>
+  <entry in="0" producer="3" out="149"/>
+  <entry in="0" producer="4" out="149"/>
+  <entry in="0" producer="5" out="149"/>
+  <entry in="0" producer="6" out="149"/>
+  <entry in="0" producer="7" out="149"/>
+  <entry in="0" producer="8" out="149"/>
+  <entry in="0" producer="9" out="149"/>
+  <entry in="0" producer="10" out="149"/>
+  <entry in="0" producer="11" out="149"/>
+  <entry in="0" producer="13" out="149"/>
+  <entry in="0" producer="14" out="149"/>
+  <entry in="0" producer="15" out="149"/>
+  <entry in="0" producer="16" out="149"/>
+  <entry in="0" producer="17" out="149"/>
+  <entry in="0" producer="18" out="149"/>
+  <entry in="0" producer="19" out="149"/>
+  <entry in="0" producer="20" out="149"/>
+  <entry in="0" producer="21" out="149"/>
+  <entry in="0" producer="22" out="149"/>
+  <entry in="0" producer="23" out="149"/>
+  <entry in="0" producer="24" out="149"/>
+  <entry in="0" producer="25" out="149"/>
+  <entry in="0" producer="26" out="149"/>
+  <entry in="0" producer="27" out="149"/>
+  <entry in="0" producer="28" out="149"/>
+  <entry in="0" producer="29" out="149"/>
+  <entry in="0" producer="30" out="149"/>
+ </playlist>
+ <producer id="black" in="0" out="500">
+  <property name="mlt_type">producer</property>
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+ </producer>
+ <playlist id="black_track">
+  <entry in="0" producer="black" out="1529"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 3</property>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+  <blank length="373"/>
+  <entry in="0" producer="2" out="149">
+   <filter id="affine">
+    <property name="track">0</property>
+    <property name="background">colour:0x00000000</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">affine</property>
+    <property name="kdenlive_id">affine</property>
+    <property name="tag">affine</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="transition.fix_rotate_x">88</property>
+    <property name="transition.fix_rotate_y">0</property>
+    <property name="transition.fix_rotate_z">0</property>
+    <property name="transition.rotate_x">0</property>
+    <property name="transition.rotate_y">0</property>
+    <property name="transition.rotate_z">0</property>
+    <property name="transition.fix_shear_x">0</property>
+    <property name="transition.fix_shear_y">0</property>
+    <property name="transition.shear_x">0</property>
+    <property name="transition.shear_y">0</property>
+    <property name="transition.geometry">0/0:1280x720:100</property>
+    <property name="kdenlive_info">1/-1/</property>
+   </filter>
+   <filter id="fade_from_black" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="82"/>
+  <entry in="0" producer="4" out="115">
+   <filter id="filter0" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="7" out="119">
+   <filter id="filter1" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="24" out="59"/>
+  <entry in="0" producer="10" out="88">
+   <filter id="filter2" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="3" out="89"/>
+  <entry in="0" producer="1" out="90"/>
+  <blank length="60"/>
+  <entry in="0" producer="11" out="89">
+   <filter id="filter3" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="14" out="118"/>
+  <entry in="0" producer="13" out="89"/>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 1</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+  <entry in="0" producer="15" out="149">
+   <filter id="filter4" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+   <filter id="fade_to_black" in="104" out="149">
+    <property name="track">0</property>
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="end">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="0" producer="19" out="58">
+   <filter id="filter5" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="0" producer="20" out="91"/>
+  <entry in="0" producer="16" out="71">
+   <filter id="filter6" in="26" out="71">
+    <property name="track">0</property>
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="21" out="149">
+   <filter id="filter7" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="17" out="81">
+   <filter id="filter8" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="22" out="115">
+   <filter id="filter9" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="23" out="119">
+   <filter id="filter10" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="60"/>
+  <entry in="0" producer="25" out="88">
+   <filter id="filter11" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="26" out="89"/>
+  <entry in="0" producer="27" out="90"/>
+  <entry in="0" producer="18" out="59">
+   <filter id="filter12" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="28" out="89">
+   <filter id="filter13" out="45">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry in="0" producer="29" out="118"/>
+  <entry in="0" producer="30" out="89"/>
+ </playlist>
+ <tractor id="maintractor" in="0" global_feed="1" out="1529" title="Anonymous Submission">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4" out="149">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition6" in="301" out="372">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition7" in="523" out="604">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition8" in="1290" out="1439">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition9" in="150" out="208">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition10" in="209" out="300">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition11" in="373" out="522">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition12" in="605" out="720">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition13" in="721" out="840">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition14" in="901" out="989">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition15" in="990" out="1079">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition16" in="1080" out="1289">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="distort">0</property>
+   <property name="geometry">0/0:100%x100%:100%</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition17">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="version">0.9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition18">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0.9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>

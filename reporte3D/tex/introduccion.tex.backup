@@ -2,11 +2,9 @@
 Existen geometr\'ias que diversos productos poseen que son muy dif\'iciles de reproducir con
 t\'ecnicas tradicionales. Como respuesta a esta limitaci\'on, surge la tecnolog\'ia de escaneo 3D.
 Esta tecnolog\'ia sirve para obtener informaci\'on sobre la supercie de un objeto, con la cual es capaz de recrear
-con diferentes grados de exactitud, la geometr\'ia de manera virtual.\\
-
-Sin embargo, esta geometr\'ia no posee informaci\'on \'util para editar, es solamente un archivo STL.
-Este tipo de archivo solamente describe la superficie, es incapaz de especificar datos como espesor o
-curvas b\'asicas.
+con diferentes grados de exactitud, la geometr\'ia de manera virtual. Sin embargo, esta geometr\'ia no posee
+informaci\'on \'util para editar, es solamente un archivo STL. Este tipo de archivo solamente describe la
+superficie, es incapaz de especificar datos como espesor o curvas b\'asicas.
 
 \section{Objetivos}
 \begin{itemize}
@@ -18,9 +16,4 @@ curvas b\'asicas.
 Se realizaron dos escaneos para piezas diferentes: un flex\'ometro y un par de lentes de seguridad.
 La primer prueba emple\'o el par de lentes, el cual present\'o limitaciones en su escaneo debido a que
 el lente es transl\'ucido y el esc\'aner es incapaz de identificarlo. La segunda prueba emple\'o el flex\'ometro,
-el cual al ser opaco facilit\'o la recuperaci\'on de sus superficies.\\
-
-Para preparar los objetos, fue necesario cubrirlos con puntos rastreadores de manera distribuida sobre toda la superficie.
-A pesar de las instrucciones que las cajas poseen de no reutilizar dichos puntos, se opt\'o por usar aquellos que se encontraban
-pegados en el exterior de la caja. La raz\'on de esto es que no se consider\'o vital tener un escaneo perfecto de la piezas.
-Adem\'as se busc\'o no afectar a la instituci\'on con la necesidad de comprar m\'as material para el esc\'aner 3D.
+el cual al ser opaco facilit\'o la recuperaci\'on de sus superficies.
